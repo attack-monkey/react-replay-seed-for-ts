@@ -1,6 +1,6 @@
 {
   "name": "react-replay-seed-for-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Seed Project for React-Replay with typescript and styled components",
   "main": "index.ts",
   "scripts": {

@@ -17,8 +17,6 @@ export const firstComponent = ({ state }) =>
           <hr/>
           <h2>{state.greeting}</h2>
           <p>
-            Image: a1
-            <br/>
             This project contains:
           </p>
           <ul>
